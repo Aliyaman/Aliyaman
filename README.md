@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ali</h1>
 <h3 align="center">I am Junior Web Developer</h3>
 
-- 🔭 I’m currently working on [My Web Site](http://aliyaman.net)
+- 🔭 I’m currently working on Learning Python!
 
 - 🌱 I’m currently learning **Python**
 
