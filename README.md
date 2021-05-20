@@ -9,7 +9,7 @@
 
 - 📝 I regulary write articles on [https://aliyaman.github.io/mukemmel-blog/](https://aliyaman.github.io/mukemmel-blog/)
 
-- 📫 How to reach me **ali4yaman@gmail.com**
+- 📫 How to reach me [Mail](mailto:uwu5bruh@gmail.com)
 
 ### Languages
 
